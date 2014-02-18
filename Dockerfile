@@ -1,5 +1,5 @@
 
-FROM mirkokiefer/base
+FROM mirkokiefer/ubuntu-base
 
 RUN apt-get install -y python python-pip
 
